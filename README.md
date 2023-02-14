@@ -1,0 +1,2 @@
+# bot
+shop bot
